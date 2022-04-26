@@ -1,2 +1,2 @@
 # psc_server
-update
+update  ok
